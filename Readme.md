@@ -38,7 +38,7 @@ Epic User Story: Developing a Rock-Paper-Scissors game using JS
 
 ## Objective 🔍
 
-Build a Weather App using axios
+Build a R-P-S app game using JS
 
 ### At the end of the project, we will be able to;
 
@@ -52,4 +52,4 @@ All contributions from different perspectives greatly enrich my projects! Whethe
 
 
 
-**<p align="center"> 💻 Happy Work 💻</p>** 
+**<p align="center"> 💻 Always improve yourself 💻</p>** 
