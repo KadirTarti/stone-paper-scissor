@@ -12,7 +12,7 @@ gif
 ## Project Skeleton 👷
 
 ```
-to-do-list (folder)
+RockPaperScissors (folder)
 |
 ├── .--
 ├── --
@@ -28,15 +28,11 @@ to-do-list (folder)
 
 ### Project Planning & Management 🗺️
 
-Epic User Story: Developing a To-Do List using JS 
+Epic User Story: Developing a Rock-Paper-Scissors game using JS 
 
 
 ## User Stories:
-1. As a user, I want to enter the name of a city in an input field so that I can query its weather information.
-2. As a user, I want the weather information to be displayed on cards with icons for easy understanding.3
-3. As a user, I want the option to query weather information in both English and German languages for flexibility.
-4. As a user, I want the previous search results to remain on the screen without complete refreshing, allowing me to compare different city's weather easily.
-5. As a user, I want to be able to remove the previous search result from the screen by clicking on the 'x' button in the upper right corner of the card structure for a clean interface.
+1. 
 
 
 
